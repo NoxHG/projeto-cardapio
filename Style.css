@@ -1,0 +1,94 @@
+body {
+    font-family: "Outfit";
+}
+
+.imagem-de-omelete {
+    width: 100%;
+    height: 100%;
+    border-radius: 7px;
+}
+
+.corpo {
+    background-color: hsl(30, 54%, 90%);
+}
+
+.cardapio {
+    background-color: hsl(0, 0%, 100%);
+    border: 20px solid white;
+    border-radius: 7px;
+}
+
+.titulo {
+    text-align: left;
+    color: hsl(24, 5%, 18%);
+    font-size: 35px;
+    font-family: 'YoungSerif';
+}
+
+.texto-inicial {
+    font-size: small;
+}
+
+.div1 {
+    background-color: hsla(333, 100%, 93%, 0.5);
+    border-radius: 7px;
+    color: hsl(332, 51%, 32%);
+    border: 5px solid hsla(333, 100%, 93%, 0);
+    border-top: 3px solid;
+    border-right: 3px solid;
+}
+
+.div1 li {
+    color: hsl(332, 51%, 32%);
+}
+
+.div1 li b {
+    color: hsl(24, 5%, 18%);
+}
+
+.titulo-menor {
+    text-align: left;
+    color: hsl(14, 45%, 36%);
+    font-size: 25px;
+    font-family: 'YoungSerif';
+}
+
+.ingrandientes li {
+    color: hsl(14, 45%, 36%);
+}
+
+.ingrandientes{
+    line-height: 85%;
+}
+.instrucoes h3{
+    color: hsl(14, 45%, 36%);
+    font-family: 'YoungSerif';
+}
+
+.instrucoes{
+    line-height: 85%;
+}
+
+.instrucoes .numeros{
+    color: hsl(30, 10%, 34%);
+}
+
+.instrucoes .texto{
+    color: hsl(24, 5%, 18%);
+}
+
+.nutricao .titulo-menor{
+    font-size: 25px;
+    font-family: 'YoungSerif';
+}
+
+.nutricao .nutricao-gramas{
+    padding-left: 375px;
+    display: flex;
+    padding-bottom: 1%;
+}
+
+.cardapio{
+    width: auto;
+    margin: 0px 500px;
+}
